@@ -1,1 +1,1 @@
-[return]()
+[restart](restart.md)
