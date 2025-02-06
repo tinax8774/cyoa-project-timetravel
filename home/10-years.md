@@ -1,3 +1,3 @@
-You have went back in time to when you were a toddler. **Click below to enter your childhood.**
+You have went back in time ten years and your living your old past back. **Click below to enter your childhood.**
 
 [childhood](childhood.md)
