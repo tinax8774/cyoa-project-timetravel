@@ -7,4 +7,4 @@ You are learning how to walk again starting over, you can only crawl right now. 
 [Door 2](door-2.md)
 
 
-![hhhh](../baby.png)
+![kid](../kid.jpg)
