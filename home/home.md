@@ -2,5 +2,6 @@
 
 [Door 1](door-1.md)
 
+![door](../Unknown-2.jpg)
 
 [Door 2](door-2.md)
