@@ -4,5 +4,5 @@ You are learning how to walk again starting over, you can only crawl right now. 
 [home](home.md)
 
 
-[closet 2](closet-2.md)
+[Door 2](door-2.md)
 
