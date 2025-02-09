@@ -3,4 +3,4 @@ You can now enjoy a warm vacation at the beach now and relax without having to w
 
 [Return home](home.md)
 
-![hhhh](../baby.png)
+
